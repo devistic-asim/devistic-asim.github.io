@@ -39,4 +39,4 @@ Looking forward to connecting with fellow tech enthusiasts and industry professi
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=devistic-asim&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=devistic-asim&theme=highcontrast&hide_border=false)

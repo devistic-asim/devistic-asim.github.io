@@ -2,7 +2,7 @@
 
 ### About Me 👨‍💻
 
-Hello there! I'm Muhammad Asim, a dedicated Full-Stack .Net Developer with a deep passion for crafting exceptional web solutions. With over 3.5+ years of hands-on experience, I've honed my skills to deliver cutting-edge applications that blend creativity with functionality.
+Hello there! I'm Muhammad Asim, a dedicated Full-Stack .Net Developer with a deep passion for crafting exceptional web solutions. With over 3.6+ years of hands-on experience, I've honed my skills to deliver cutting-edge applications that blend creativity with functionality.
 
 ### Technical Expertise 🚀
 

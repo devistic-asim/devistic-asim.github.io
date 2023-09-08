@@ -1,6 +1,6 @@
 # Muhammad Asim | Full-Stack .Net Developer | React JS Expert
 
-### About Me 👨‍💻
+### About Me 👨‍💻 
 
 Hey there! I'm Muhammad Asim, a dedicated Full-Stack .Net Developer passionate about crafting outstanding web solutions. With over 3.6+ years of hands-on experience, I specialize in creating cutting-edge applications that combine creativity and practicality.
 

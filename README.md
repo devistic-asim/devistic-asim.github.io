@@ -40,6 +40,6 @@ Looking forward to connecting with fellow tech enthusiasts and industry professi
 
 <!-- ! ### 📊 GitHub Stats:
 ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=devistic-asim&show_icons=true&theme=highcontrast)
- -->
 [](https://github-readme-streak-stats.herokuapp.com/?user=devistic-asim&theme=highcontrast&hide_border=false)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ -->
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=devistic-asim&theme=dark)](https://git.io/streak-stats)

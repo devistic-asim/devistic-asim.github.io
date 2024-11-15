@@ -43,8 +43,6 @@ Looking forward to connecting with fellow tech enthusiasts and industry professi
 [](https://github-readme-streak-stats.herokuapp.com/?user=devistic-asim&theme=highcontrast&hide_border=false)
 
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=devistic-asim&theme=dark)](url)
-
  
  
  -->
